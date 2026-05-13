@@ -1,0 +1,6 @@
+{
+  "name": "TalentScan AI",
+  "description": "Intelligent Resume Analysis & Hiring Assistant powered by Gemini. Analyze resumes against job descriptions, generate match scores, skill gap analysis, and tailored interview questions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
